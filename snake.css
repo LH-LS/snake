@@ -1,0 +1,11 @@
+/* #gameBoard {
+  margin: 0 auto;
+  display: block;
+  border: 1px solid black;
+} */
+#gameBoard {
+  margin: 0 auto;
+  display: block;
+  border: 1px solid black;
+  background-color: rgb(13, 193, 253);
+}
